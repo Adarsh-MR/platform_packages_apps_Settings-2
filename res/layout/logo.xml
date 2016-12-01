@@ -16,9 +16,9 @@
 	android:layout_height="wrap_content">
 
 <ImageView
-	android:layout_width="625dp"
- 	android:layout_height="100dp"
+	android:layout_width="849dp"
+ 	android:layout_height="283dp"
 	android:src="@drawable/logo"
 	android:adjustViewBounds="true"
-	android:scaleType="centerInside" />
+	android:scaleType="center" />
 </LinearLayout>
